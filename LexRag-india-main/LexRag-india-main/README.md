@@ -1,5 +1,3 @@
-Here is a **professional, production-ready `README.md` content** for your RAG-based Indian Law bot project:
-
 ---
 
 # ⚖️ LexAI — Judicial Intelligence System
@@ -177,14 +175,3 @@ For legal matters, consult a qualified legal professional.
 Built as a Retrieval-Augmented Generation system for statutory law accuracy benchmarking.
 
 ---
-
-If you want, I can now generate:
-
-* 📌 A GitHub-optimized version with badges
-* 📊 A resume-ready project description
-* 🏆 A portfolio-style README
-* 📄 A research-paper style documentation version
-* 🚀 A startup-level product README
-
-Just tell me the target audience.
-# LexRag-india
